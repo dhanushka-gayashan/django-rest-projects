@@ -26,7 +26,7 @@
             
         - "ModHeader Extention" can be used to set "Authorization Header" when send reuqests from browser
         
-        - Authorization Token only need for HTTP "POST" / "PUT" / "PATCH / "DELETE Requests
+        - Authorization Token only need for HTTP "POST" / "PUT" / "PATCH" / "DELETE" Requests
 
     - http://localhost:8000/api/profile
         - GET : List All Profiles
